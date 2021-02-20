@@ -1,1 +1,38 @@
-#notepad[data-v-468eccc0]{margin:0;height:100%;width:100%}#notepad div[data-v-468eccc0],textarea[data-v-468eccc0]{display:inline-block;width:100%;height:100%;vertical-align:top;box-sizing:border-box;padding:0 20px}textarea[data-v-468eccc0]{border:none;border-right:1px solid #ccc;resize:none;outline:none;background-color:#f6f6f6;font-size:14px;font-family:Monaco,courier,monospace;padding:20px;height:100%}code[data-v-468eccc0]{color:#f66}body,html{margin:0;height:100%;width:100%;font-family:Helvetica Neue,Arial,sans-serif;color:#333}
+#notepad[data-v-468eccc0] {
+    margin: 0;
+    height: 100%;
+    width: 100%
+}
+
+#notepad div[data-v-468eccc0], textarea[data-v-468eccc0] {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding: 0 20px
+}
+
+textarea[data-v-468eccc0] {
+    border: none;
+    border-right: 1px solid #ccc;
+    resize: none;
+    outline: none;
+    background-color: #f6f6f6;
+    font-size: 14px;
+    font-family: Monaco, courier, monospace;
+    padding: 20px;
+    height: 100%
+}
+
+code[data-v-468eccc0] {
+    color: #f66
+}
+
+body, html {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    font-family: Helvetica Neue, Arial, sans-serif;
+    color: #333
+}

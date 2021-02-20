@@ -1,11 +1,13 @@
-<!DOCTYPE html>
+---
+layout: page
+---
+
 <html lang="">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" href="/favicon.ico">
-    <title>vue-notes-app</title>
     <link href="css/app.8761f3ad.css" rel="preload" as="style">
     <link href="js/app.7021987b.js" rel="preload" as="script">
     <link href="js/chunk-vendors.fa962f28.js" rel="preload" as="script">
